@@ -1,4 +1,9 @@
+package src;
+
 import java.util.*;
+//sd
+//sadad
+//aadad
 
 public class MyMiniSearchEngine {
     // default solution. OK to change.
